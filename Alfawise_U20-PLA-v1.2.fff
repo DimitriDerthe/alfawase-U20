@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<profile name="Alfawise U20-Last" version="2019-01-03 20:41:26" app="S3D-Software 4.1.1">
-  <baseProfile>Alfawise U20(3) (modified)</baseProfile>
+<profile name="Alfawise U20 PLA 1.2" version="2019-01-03 20:41:26" app="S3D-Software 4.1.1">
+  <baseProfile>Alfawise U20 PLA</baseProfile>
   <printMaterial>PLA</printMaterial>
   <printQuality>Medium</printQuality>
   <printExtruders></printExtruders>
